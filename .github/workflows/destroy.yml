@@ -1,4 +1,4 @@
-name: Main Build
+name: Destroy infra
 
 on:
   workflow_dispatch:
